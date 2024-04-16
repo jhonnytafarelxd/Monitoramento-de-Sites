@@ -1,0 +1,22 @@
+        .centralizar {
+            text-align: center;
+        }
+        
+        .text-success {
+        color: #008000; /* Verde escuro */
+        }
+
+        .table-success {
+            background-color: #022222 !important; /* Vermelho escuro */
+            color: #008000; /* Texto branco */
+        }
+
+        .table-danger {
+            background-color: #8b0000 !important; /* Vermelho escuro */
+            color: #ffffff; /* Texto branco */
+        }
+
+        body {
+            background-color: black; /* Definindo o fundo da página como preto */
+            color: white; /* Definindo a cor do texto como branco */
+        }
